@@ -1,0 +1,6 @@
+to run the program say "python3 agent.py"
+There are two sections of code the first will run a full training of the preset weights and the other will run one iteration of the neural net with the given weights
+
+It will also run for any amount of hidden nodes and layers.
+
+
